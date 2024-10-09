@@ -51,3 +51,9 @@ You can get 40% off any Linux Foundation certification or training!
 - [x] Visit [https://lf.kubeflex.io](https://lf.kubeflex.io)
 - [x] Locate the certification/training you wish to purchase
 - [x] Apply the coupon OCTPRIME24 
+
+---
+
+### Click [here](https://www.linkedin.com/pulse/how-ace-all-cncf-certification-exams-tips-strategies-sajeeva-lakmal-9ypfe/) to read how I became the 4th person in the world to complete all Cloud Native Computing Foundation (CNCF) certifications
+![Alt text](images/certs.jpg?raw=true "KUBEFLEX30 Coupon")
+
