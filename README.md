@@ -5,9 +5,9 @@ Are you looking to advance your career with Linux Foundation certifications or t
 
 As an official partner of the Linux Foundation, We are excited to share exclusive discount coupons for a variety of training courses and certifications.
 
-### [Up to 40% OFF] Linux Foundation Prime Day Sale [ Valid from 8th of October 2024 to 9th of October 2024 ]
+### [Up to 40% OFF] Linux Foundation Exclusive Discount
 
-As part of our partnership with Linux Foundation, you can get 30% off any Linux Foundation certification or a training. 
+As part of our partnership with the Linux Foundation, you can get 30% off any Linux Foundation certification or training.
 
 #### Steps to redeem:
 - [x] Visit [https://lf.kubeflex.io](https://lf.kubeflex.io)
@@ -15,6 +15,9 @@ As part of our partnership with Linux Foundation, you can get 30% off any Linux 
 - [x] Apply the coupon KUBEFLEX30
 
 ![Alt text](images/coupon.png?raw=true "KUBEFLEX30 Coupon")
+
+---
+### [Up to 40% OFF]  Direct links certifications and bundles
 
 ---
 
