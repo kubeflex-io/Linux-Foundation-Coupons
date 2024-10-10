@@ -54,5 +54,4 @@ You can get 40% off any Linux Foundation certification or training!
 
 ---
 
-### Click [here](https://www.linkedin.com/pulse/how-ace-all-cncf-certification-exams-tips-strategies-sajeeva-lakmal-9ypfe/) to read more tips and tricks!
 
