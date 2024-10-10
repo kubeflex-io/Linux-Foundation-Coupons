@@ -43,7 +43,7 @@ Use the coupon **KUBEFLEX30** at checkout
 
 ---
 
-### [Up to 50% OFF] Linux Foundation Prime Day Sale [ Valid from 8th of October 2024 to 9th of October 2024 ]
+### [Up to 50% OFF] Linux Foundation Prime Day Sale [ Valid from 8th of October 2024 to 9th of October 2024  - Expired!
 
 You can get 40% off any Linux Foundation certification or training!
 
