@@ -17,7 +17,7 @@ As part of our partnership with the Linux Foundation, you can get 30% off **ANY*
 ![Alt text](images/with-coupon-v2.png?raw=true "KUBEFLEX30 Coupon")
 
 ---
-### [Up to 40% OFF]  Direct links certifications and bundles
+### [Up to 40% OFF]  Direct links to certifications and bundles
 
 Use the coupon **KUBEFLEX30** at checkout
 
