@@ -3,7 +3,6 @@
 
 Are you looking to advance your career with Linux Foundation certifications or training? You're in the right place!
 
-As an official partner of the Linux Foundation, We are excited to share exclusive discount coupons for a variety of training courses and certifications.
 
 ### [Up to 40% OFF] Linux Foundation Exclusive Discount
 
