@@ -47,7 +47,7 @@ You can get 35% off on any certification or training.
 #### Steps to redeem:
 - [x] Visit [https://lf.kubeflex.io](https://lf.kubeflex.io)
 - [x] Locate the certification/training you wish to purchase
-- [x] Apply the coupon SPOOKY35 
+- [x] Apply the coupon SPOOKY35CT 
 
 
 
