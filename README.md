@@ -1,4 +1,4 @@
-# Linux-Foundation-Coupons - As of October 2024
+# Linux-Foundation-Coupons - As of November 2024
 🎉 Linux Foundation Training & Certification Discounts
 
 
@@ -49,6 +49,25 @@ You can get 35% off on any certification or training.
 - [x] Locate the certification/training you wish to purchase
 - [x] Apply the coupon SPOOKY35CT 
 
+
+---
+### Register Now for KubeCon + CloudNativeCon North America 2024! November 12-15 in Salt Lake City
+KubeCon + CloudNativeCon North America 2024 in Salt Lake City is coming up quickly! Join the Cloud Native Computing Foundation’s flagship conference, where adopters and technologists from leading open source and cloud native communities gather from around the world to further the education and advancement of cloud native computing.
+
+Register [here](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/).
+
+Type | Price | Discounted Price | Saving | Coupon 
+--- | --- | --- | --- |--- 
+Individual, All-Access | $1,079 | $899 | $180 | KUBEFLEX_AAI
+Corporate, All-Access | $1,979 | $1,549 | $430 | KUBEFLEX_AAC 
+Individual, KubeCon + CoudNativeCon | $700 | $600 | $100 | KUBEFLEX_I 
+Corporate, KubeCon + CloudNativeCon | $1,600 | $1,250 | $350 | KUBEFLEX_C 
+
+---
+### Other Useful Repositories
+
+1. [KodeKloud coupons](https://github.com/CloudNativeStudyGroup/KodeKloud-Coupons)
+2. [Free courses where you can earn free Credly digital badges](https://github.com/CloudNativeStudyGroup/Free-Credly-Badges)
 
 
 
