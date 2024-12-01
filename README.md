@@ -1,6 +1,27 @@
-# Linux-Foundation-Coupons - As of November 2024
+# Linux-Foundation-Coupons - As of December 2024
 🎉 Linux Foundation Training & Certification Discounts
 
+---
+### [60% OFF] Linux Foundation CYBER DEAL - OFFER ENDS DEC 11
+
+60% off any certification bundle
+
+#### Steps to redeem:
+- [x] Visit [https://lf.kubeflex.io](https://lf.kubeflex.io)
+- [x] Locate the certification bundle using the certification catalog
+- [x] Apply the coupon CYBER24BUNDLEFLEX
+
+---
+### [50% OFF] Linux Foundation CYBER DEAL - OFFER ENDS DEC 11
+
+50% off any individual certifications/courses
+
+#### Steps to redeem:
+- [x] Visit [https://lf.kubeflex.io](https://lf.kubeflex.io)
+- [x] Locate the certification/course using the certification catalog
+- [x] Apply the coupon CYBER24CCFLEX
+
+---
 
 ### [30% OFF] Linux Foundation Exclusive Discount
 
@@ -38,18 +59,6 @@ Use the coupon **KUBEFLEX30** at checkout
 
 👉 [Cilium Certified Associate (CCA)](https://cca.kubeflex.io)
 
----
-
-### [40% OFF] Celebrating KubeCon North America! - OFFER ENDS NOV 25
-
-You can get 40% savings site-wide!!
-
-#### Steps to redeem:
-- [x] Visit [https://lf.kubeflex.io](https://lf.kubeflex.io)
-- [x] Locate the certification/training you wish to purchase
-- [x] Apply the coupon 40NOV24 
-
-
 
 ---
 ### Other Useful Repositories
@@ -58,7 +67,6 @@ You can get 40% savings site-wide!!
 2. [Free courses where you can earn free Credly digital badges](https://github.com/CloudNativeStudyGroup/Free-Credly-Badges)
 
 
+## Join our community
 
----
-
-
+Join our [community](https://www.linkedin.com/groups/13092099/) to learn together!
