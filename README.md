@@ -65,10 +65,8 @@ Apply the coupon **KUBEFLEX30** for any of the following certification bundle!
 
 ---
 ### Other Useful Resources
-
-1. [KodeKloud coupons](https://github.com/CloudNativeStudyGroup/KodeKloud-Coupons)
-2. [Free courses where you can earn free Credly digital badges](https://github.com/CloudNativeStudyGroup/Free-Credly-Badges)
-3. Join [certdirectory.io](https://certdirectory.io) to showcase your achievements! 
+1. [Free courses where you can earn free Credly digital badges](https://github.com/CloudNativeStudyGroup/Free-Credly-Badges)
+2. Join [certdirectory.io](https://certdirectory.io) to showcase your achievements! 
 
 
 ## Join our community
