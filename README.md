@@ -1,5 +1,15 @@
 # Linux-Foundation-Coupons - As of May 2025
-🎉 Linux Foundation Training & Certification Discounts
+💡 Looking to level up your cloud and DevOps skills? This guide provides the latest Linux Foundation coupons and discounts, including up to 40% off on bundles and 30% off sitewide. Explore top certifications and save on your learning journey!
+
+---
+
+### 40% off on ALL bundles! [ Limited Time ]
+
+Follow these steps to get **40%** off on Linux Foundation certification bundles!
+
+#### Steps to redeem:
+- [x] Visit [Linux Foundation Bundle Catalog](https://tidd.ly/4d3CTyK) 
+- [x] Apply the coupon mentioned in the above webpage at checkout
 
 ---
 ### [30% OFF] Linux Foundation Exclusive Discount [ Unlimited Validity ]
@@ -53,13 +63,17 @@ Apply the coupon **KUBEFLEX30** for any of the following certification bundle!
 - [x] [KCSA + CKS](https://tidd.ly/3FsOhYh)
 - [x] [KCSA + KCNA](https://tidd.ly/4bP59V8)
 - [x] [CKA + CKAD](https://tidd.ly/424IQYb)
+- [x] [Golden Kubestronaut](https://tidd.ly/4ijaE09)
+- [x] [Kubestronaut to Golden Kubestronaut upgrade](https://tidd.ly/4iXvJhJ)
 
 ---
-### Other Useful Resources
+### Other Useful Resource
+
 1. [Free courses where you can earn free Credly digital badges](https://github.com/CloudNativeStudyGroup/Free-Credly-Badges)
-2. Join [certdirectory.io](https://certdirectory.io) to showcase your achievements! 
 
 
 ## Join our community
 
-Join our [community](https://www.linkedin.com/groups/13092099/) to learn together!
+Join [CertDirectory.io](https://certdirectory.io) to showcase your certifications!
+
+
