@@ -3,7 +3,7 @@
 
 
 ---
-### [50% OFF] Linux Foundation May Discount [ Expires 21st of May ]
+### [50% OFF] Linux Foundation May Discount for Bundles [ Expires 21st of May ]
 
 Follow these steps to get **50%** off **ANY** Linux Foundation certification bundles.
 
@@ -13,7 +13,7 @@ Follow these steps to get **50%** off **ANY** Linux Foundation certification bun
 
 
 ---
-### [50% OFF] Linux Foundation May Discount [ Expires 21st of May ]
+### [40% OFF] Linux Foundation May Discount for Individual Certifications [ Expires 21st of May ]
 
 Follow these steps to get **40%** off **ANY** Linux Foundation certification (Individual).
 
@@ -37,7 +37,6 @@ Follow these steps to get **30%** off **ANY** Linux Foundation certification, ce
 ---
 ### Direct Links to Popular Certifications
 
-Use the coupon **KUBEFLEX30** at checkout to get 30% off
 
 - [x] [Certified Kubernetes Administrator (CKA)](https://tidd.ly/3DFkSJP)
 
@@ -70,15 +69,17 @@ Use the coupon **KUBEFLEX30** at checkout to get 30% off
 ---
 ### Direct Links to Popular Bundles
 
-Apply the coupon **KUBEFLEX30** for any of the following certification bundle!
 - [x] [Kubestronaut Bundle](https://tidd.ly/4kRb0xa)
 - [x] [KCSA + CKS](https://tidd.ly/3FsOhYh)
 - [x] [KCSA + KCNA](https://tidd.ly/4bP59V8)
 - [x] [CKA + CKAD](https://tidd.ly/424IQYb)
-- [x] [Golden Kubestronaut](https://tidd.ly/4ijaE09)
-- [x] [Kubestronaut to Golden Kubestronaut upgrade](https://tidd.ly/4iXvJhJ)
 - [x] [CKA + CKS](https://tidd.ly/4hwPQla)
 - [x] [CKA + KCNA](https://tidd.ly/3DHQKgO)
+- [x] [CKA + CKAD + CKS](https://tidd.ly/4j5MZR3)
+- [x] [Golden Kubestronaut](https://tidd.ly/4ijaE09)
+- [x] [Kubestronaut to Golden Kubestronaut upgrade](https://tidd.ly/4iXvJhJ)
+- [x] [CKA to Kubestronaut upgrade](https://tidd.ly/4deE9Pz)
+- [x] [CKAD to Kubestronaut upgrade](https://tidd.ly/4j5O8bp)
 - [x] [ICA + LFS245](https://tidd.ly/3XMREiY)  
 - [x] [CAPA + LFS256](https://tidd.ly/3FtPsGU)  
 - [x] [LFCA + KCNA](https://tidd.ly/3XPeHJY)  
