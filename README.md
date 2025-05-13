@@ -1,5 +1,27 @@
 # Linux-Foundation-Coupons - As of May 2025
-💡 Looking to level up your cloud and DevOps skills? This guide provides the latest Linux Foundation coupons and discounts, including up to 40% off on bundles and 30% off sitewide. Explore top certifications and save on your learning journey!
+🎉 Linux Foundation Training & Certification Discounts
+
+
+---
+### [50% OFF] Linux Foundation May Discount [ Expires 21st of May ]
+
+Follow these steps to get **50%** off **ANY** Linux Foundation certification bundles.
+
+#### Steps to redeem:
+- [x] Visit [Linux Foundation Certificaton Catalog](https://tidd.ly/3XUqO8D) or use the direct links mentioned below to locate the certification bundle you wish to purchase
+- [x] Apply the coupon **MAY25BUNCD**
+
+
+---
+### [50% OFF] Linux Foundation May Discount [ Expires 21st of May ]
+
+Follow these steps to get **40%** off **ANY** Linux Foundation certification (Individual).
+
+#### Steps to redeem:
+- [x] Visit [Linux Foundation Certificaton Catalog](https://tidd.ly/3XUqO8D) or use the direct links mentioned below to locate the certification (Individual) you wish to purchase
+- [x] Apply the coupon **MAY25CD**
+
+
 
 ---
 ### [30% OFF] Linux Foundation Exclusive Discount [ Unlimited Validity ]
@@ -55,7 +77,12 @@ Apply the coupon **KUBEFLEX30** for any of the following certification bundle!
 - [x] [CKA + CKAD](https://tidd.ly/424IQYb)
 - [x] [Golden Kubestronaut](https://tidd.ly/4ijaE09)
 - [x] [Kubestronaut to Golden Kubestronaut upgrade](https://tidd.ly/4iXvJhJ)
-
+- [x] [CKA + CKS](https://tidd.ly/4hwPQla)
+- [x] [CKA + KCNA](https://tidd.ly/3DHQKgO)
+- [x] [ICA + LFS245](https://tidd.ly/3XMREiY)  
+- [x] [CAPA + LFS256](https://tidd.ly/3FtPsGU)  
+- [x] [LFCA + KCNA](https://tidd.ly/3XPeHJY)  
+- [x] [LFCA + LFS200](https://tidd.ly/3Dvg3Tr)  
 ---
 ### Other Useful Resource
 
