@@ -1,6 +1,24 @@
 # Linux-Foundation-Coupons - As of June 2025
 💡 Looking to level up your cloud and DevOps skills? This guide provides the latest Linux Foundation coupons and discounts, including up to 40% off on bundles and 30% off sitewide. Explore top certifications and save on your learning journey!
 
+---
+### [40% OFF] Linux Foundation June Bundle Promotion [ 17th of June ]
+
+Follow these steps to get **40%** off **ANY** Linux Foundation certification bundles.
+
+#### Steps to redeem:
+- [x] Visit [Linux Foundation Certificaton Catalog](https://tidd.ly/3XUqO8D) or use the direct links mentioned below to locate the certification bundle you wish to purchase
+- [x] Apply the coupon **JUNE25PLUSCD**
+
+---
+### [40% OFF] Linux Foundation Individual Certification Promotion [ 17th of June ]
+
+Follow these steps to get **40%** off **ANY** Linux Foundation certifications (Individual).
+
+#### Steps to redeem:
+- [x] Visit [Linux Foundation Certificaton Catalog](https://tidd.ly/3XUqO8D) or use the direct links mentioned below to locate the certification you wish to purchase
+- [x] Apply the coupon **KCHK25**
+
 
 ---
 ### [30% OFF] Linux Foundation Exclusive Discount [ Unlimited Validity ]
@@ -29,7 +47,7 @@ Follow these steps to get **30%** off **ANY** Linux Foundation certification, ce
 - [x] [Cilium Certified Associate (CCA)](https://tidd.ly/422X77M)
 - [x] [Certified Backstage Associate (CBA)](https://tidd.ly/4iu6NxX)
 - [x] [OpenTelemetry Certified Associate (OTCA)](https://tidd.ly/4kRaAa8)
-- [x] [Kyverno Certified Associate (KCA)](https://tidd.ly/3DGSBT6)      
+- [x] [Kyverno Certified Associate (KCA)](https://tidd.ly/3DGSBT6)
 - [x] [Linux Foundation Certified System Administrator (LFCS)](https://tidd.ly/3FEvqcE) 
 
 ---
