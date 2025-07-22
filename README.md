@@ -2,6 +2,15 @@
 💡 Looking to level up your cloud and DevOps skills? This guide provides the latest Linux Foundation coupons and discounts, including up to 40% off on bundles and 30% off sitewide. Explore top certifications and save on your learning journey!
 
 ---
+### [30% OFF] KubeCon North America 2025
+
+Follow these steps to get **30%** off KubeCon NA 2025 passes - Valid for any ticket type!
+
+#### Steps to redeem:
+- [x] Visit [KubeCon NA 2025 Registration page](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/)
+- [x] Apply the coupon **CERTDIRECTORY** at checkout.
+
+---
 ### [30% OFF] Linux Foundation Exclusive Discount [ Unlimited Validity ]
 
 Follow these steps to get **30%** off **ANY** Linux Foundation certification, certification bundle or training.
