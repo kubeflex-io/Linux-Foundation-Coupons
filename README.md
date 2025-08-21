@@ -1,4 +1,4 @@
-# Linux-Foundation-Coupons - As of July 2025
+# Linux-Foundation-Coupons - As of August 2025
 💡 Looking to level up your cloud and DevOps skills? This guide provides the latest Linux Foundation coupons and discounts, including up to 40% off on bundles and 30% off sitewide. Explore top certifications and save on your learning journey!
 
 ---
@@ -9,15 +9,6 @@ Follow these steps to get **30%** off KubeCon NA 2025 passes - Valid for any tic
 #### Steps to redeem:
 - [x] Visit [KubeCon NA 2025 Registration page](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/register/)
 - [x] Apply the coupon **CERTDIRECTORY** at checkout.
-
----
-### [35% OFF] Linux Foundation August Promo [ 19th of August ]
-
-Follow these steps to get **35%** off **ANY** Linux Foundation certification, certification bundle or training.
-
-#### Steps to redeem:
-- [x] Visit [Linux Foundation Certificaton Catalog](https://tidd.ly/3XUqO8D) or use the direct links mentioned below to locate the certification you wish to purchase
-- [x] Apply the coupon **AUG25CD**
 
 
 ---
