@@ -1,4 +1,4 @@
-# Linux-Foundation-Coupons - As of August 2025
+# Linux-Foundation-Coupons - As of September 2025
 💡 Looking to level up your cloud and DevOps skills? This guide provides the latest Linux Foundation coupons and discounts, including up to 40% off on bundles and 30% off sitewide. Explore top certifications and save on your learning journey!
 
 ---
