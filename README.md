@@ -1,7 +1,22 @@
-# Linux-Foundation-Coupons - As of March 2026
+# Linux-Foundation-Coupons - As of April 2026
 💡 Looking to level up your cloud and DevOps skills? This guide provides the latest Linux Foundation coupons and discounts, including up to 40% off on bundles and 30% off sitewide. Explore top certifications and save on your learning journey!
 Want to be the first to know about future promotions? Bookmark this page: https://certdirectory.io/discounts
-  
+
+---
+### [35% OFF] CKA, CKAD, CKS, KCNA, CKSA & Kubestronaut Bundle [ Expires 30 April ]
+
+Follow these steps to get **35%** off **CKA, CKAD, CKS, KCNA, CKSA & Kubestronaut Bundle**.
+
+#### Steps to redeem:
+Use the direct link below and apply the coupon **35KUBECD** at checkout
+- [x] [Certified Kubernetes Administrator (CKA)](https://tidd.ly/3DFkSJP)
+- [x] [Certified Kubernetes Application Developer (CKAD)](https://tidd.ly/3DDuXXK)
+- [x] [Certified Kubernetes Security Specialist (CKS)](https://tidd.ly/4iuILmo)
+- [x] [Kubernetes and Cloud Native Associate (KCNA)](https://tidd.ly/3R6IcDd)
+- [x] [Kubernetes and Cloud Native Security Associate (KCSA)](https://tidd.ly/3R9ODWa)
+- [x] [Kubestronaut Bundle](https://tidd.ly/4kRb0xa)
+
+
 ---
 ### [30% OFF] Linux Foundation Exclusive Discount [ Unlimited Validity ]
 
