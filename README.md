@@ -53,7 +53,16 @@ Use code **MM26PBCD** to enjoy **65%** off power bundles:
 - [x] [CKA + CKS + LFS258 + LFS260](https://tidd.ly/4ddLMpR)
 - [x] [KCNA + CKA + LFS250 + LFS258](https://tidd.ly/4dlCd8B)
 - [x] [LFCA + KCNA + LFS200 + LFS250](https://tidd.ly/4tmTbJH)
-    
+
+--- 
+### KubeCon + CloudNativeCon India 2026 Discounts!
+
+| Type  | Coupon | Discount | Register |
+| ------------- | ------------- | ------------- | ------------- |
+| Corporate Pass  | CERTDIRECTORY_199  | 33% | [Visit](https://events.linuxfoundation.org/kubecon-cloudnativecon-india/register/) |
+| Individual Pass  | CERTDIRECTORY_85  | 14% | [Visit](https://events.linuxfoundation.org/kubecon-cloudnativecon-india/register/) |
+
+
 ---
 ### [30% OFF] Linux Foundation Exclusive Discount [ Unlimited Validity ]
 
