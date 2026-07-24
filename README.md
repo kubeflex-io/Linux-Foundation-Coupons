@@ -2,7 +2,7 @@
 💡 Looking to level up your cloud and DevOps skills? This guide provides the latest Linux Foundation coupons and discounts, including up to 40% off on bundles and 30% off sitewide. Explore top certifications and save on your learning journey!
 Want to be the first to know about future promotions? Bookmark this page: https://certdirectory.io/discounts
 
-### [Up to 40% OFF] Linux Foundation FIFA Promotion [ Expires 21st July ]
+### [Up to 40% OFF] Linux Foundation FIFA Promotion [ Expires 31st July ]
 
 Use code **JULY26BUNCD** to enjoy **40%** off Bundles:
 
