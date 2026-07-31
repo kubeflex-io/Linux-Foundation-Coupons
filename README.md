@@ -1,6 +1,23 @@
-# Linux-Foundation-Coupons - As of July 2026
+# Linux-Foundation-Coupons - As of August 2026
 💡 Looking to level up your cloud and DevOps skills? This guide provides the latest Linux Foundation coupons and discounts, including up to 40% off on bundles and 30% off sitewide. Explore top certifications and save on your learning journey!
 Want to be the first to know about future promotions? Bookmark this page: https://certdirectory.io/discounts
+
+
+### [Up to 40% OFF] Linux Foundation Summer Promotion [ Expires 9th August ]
+Use code **SUMMER26CD** to enjoy **40%** off following certifications/bundles:
+- [x] [Certified Kubernetes Administrator (CKA)](https://tidd.ly/3DFkSJP)
+- [x] [Certified Kubernetes Application Developer (CKAD)](https://tidd.ly/3DDuXXK)
+- [x] [Certified Kubernetes Security Specialist (CKS)](https://tidd.ly/4iuILmo)
+- [x] [Kubernetes and Cloud Native Associate (KCNA)](https://tidd.ly/3R6IcDd)
+- [x] [Kubernetes and Cloud Native Security Associate (KCSA)](https://tidd.ly/3R9ODWa)
+- [x] [Kubestronaut Bundle](https://tidd.ly/4kRb0xa)
+- [x] [CKA to Kubestronaut upgrade](https://tidd.ly/4deE9Pz)
+- [x] [CKAD to Kubestronaut upgrade](https://tidd.ly/4j5O8bp)
+- [x] [CKA + CKAD + CKS](https://tidd.ly/4j5MZR3)
+- [x] [CKA + CKAD](https://tidd.ly/424IQYb)
+- [x] [CKA + CKS](https://tidd.ly/4hwPQla)
+- [x] [KCSA + KCNA](https://tidd.ly/4bP59V8)
+- [x] [KCSA + CKS](https://tidd.ly/3FsOhYh)
 
 ### [Up to 40% OFF] Linux Foundation FIFA Promotion [ Expires 31st July ]
 
