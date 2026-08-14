@@ -2,6 +2,16 @@
 💡 Looking to level up your cloud and DevOps skills? This guide provides the latest Linux Foundation coupons and discounts, including up to 40% off on bundles and 30% off sitewide. Explore top certifications and save on your learning journey!
 Want to be the first to know about future promotions? Bookmark this page: https://certdirectory.io/discounts
 
+## 🇨🇳 Featured Events: China 2026 Conferences (Shanghai)
+
+### Quick Discount Summary
+
+| Event | Dates | Location | Pass Type | Original / Offer Price | Discount Code | Registration Link |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **AGNTCon + MCPCon China 2026** | Sept 6–7, 2026 | Shanghai | Standard Pass | **¥499 RMB** (15%+ off) | `CERTDIRECTORY` | [Register Here](https://www.lfopensource.cn/mcp-dev-summit-shanghai/) |
+| **KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conf** | Sept 7–9, 2026 | Shanghai | Corporate Pass | **¥1,410 RMB** (33% off) | `CERTDIRECTORY_C` | [Register Here](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/) |
+| **KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conf** | Sept 7–9, 2026 | Shanghai | Individual Pass | **¥600 RMB** (14% off) | `CERTDIRECTORY` | [Register Here](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/) |
+
 
 ### [35% OFF SITEWIDE] Celebrating 35 Years of Linux! 35% OFF SITEWIDE [ Expires 18th if August ]
 
