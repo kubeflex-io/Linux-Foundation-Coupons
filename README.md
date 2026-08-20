@@ -13,14 +13,6 @@ Want to be the first to know about future promotions? Bookmark this page: https:
 | **KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conf** | Sept 7–9, 2026 | Shanghai | Individual Pass | **¥600 RMB** (14% off) | `CERTDIRECTORY` | [Register Here](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/) |
 
 
-### [35% OFF SITEWIDE] Celebrating 35 Years of Linux! 35% OFF SITEWIDE [ Expires 18th if August ]
-
-Follow these steps to get **35%** off **ANY** Linux Foundation certification, certification bundle or training.
-
-#### Steps to redeem:
-- [x] Visit [Linux Foundation Certificaton Catalog](https://tidd.ly/3XUqO8D) or use the direct links mentioned below to locate the certification you wish to purchase
-- [x] Apply the coupon **TUX35CD**
-
 ---
 ### [30% OFF] Linux Foundation Exclusive Discount [ Unlimited Validity ]
 
